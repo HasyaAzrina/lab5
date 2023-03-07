@@ -1,4 +1,3 @@
-library(rsconnect)
 library(shiny)
 library(datasets)
 insurance <- read.csv("insurance.csv", stringsAsFactors = FALSE)
